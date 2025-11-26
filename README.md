@@ -1,3 +1,5 @@
+Hi, I'm Eddy Mugaruka 👋
+
 SIWE Auth (Sign-In With Ethereum for Go)
 
 A lightweight and production-ready Go module for authenticating users with MetaMask using EIP-191 / EIP-4361 signatures.
