@@ -103,7 +103,7 @@ Lightweight & minimal — just what backend devs need
 📄 License
 
 This project is released under the MIT License.
-See LICENSE for full details.
+
 
 ❤️ Contributing
 
