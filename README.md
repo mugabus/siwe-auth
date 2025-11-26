@@ -6,6 +6,8 @@ A lightweight Go module for authenticating users through MetaMask using cryptogr
 
 go get github.com/mugabus/siwe-auth
 
+ ## version
+ v1.0.0
 
 ## Usage
 ```go
